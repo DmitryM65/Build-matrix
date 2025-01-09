@@ -1,2 +1,1 @@
-# Build-matrix
-Solution of a homework - Functions
+Домашнее задание по теме "Что такое функции и работа с ними"
