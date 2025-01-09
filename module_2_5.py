@@ -3,7 +3,7 @@ def get_matrix(n, m, value):
 	for i in range(n):
 		matrix.append([])           # формируем строки
 		for j in range(m):
-			matrix[i].append(value) # заполняем i-ю строку значениями
+			matrix[i].append(value) # заполняем каждую строку значениями
 	return matrix                   # возвращаем матрицу
 
 result1 = get_matrix(2, 2, 10)
